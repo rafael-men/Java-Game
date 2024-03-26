@@ -1,16 +1,13 @@
 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Here is a Mini Game to help you get started to learn Java programation logic.
 
-## Folder Structure
+- Execute the program inside 'View' folder.
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
 
 ## Dependency Management
 
